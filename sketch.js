@@ -56,7 +56,7 @@ function draw() {
    
   //creating continous enemies
 
-  // var select_balloon = Math.round(random(1,4));
+   var select_balloon = Math.round(random(1,4));
   // var select_balloon = random(1,4);
   // var select_balloon = Math.round(random());
   // var select_balloon = Math.round(random(1,4,2));
